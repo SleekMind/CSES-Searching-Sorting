@@ -17,7 +17,7 @@ void vinayak()
         cin >> a;
         st.insert(a);
     }
-
+ 
     cout << st.size();
 }
 
